@@ -136,5 +136,3 @@ Performance was tested on various datasets:
 Adaptive Wave Sort (AWS) is a unique sorting algorithm that blends theoretical adaptability with practical hardware optimization. While it excels in scenarios involving uneven data distributions and large datasets, its complexity and overhead make it less suitable for small or pre-sorted data. AWS serves as a powerful tool for understanding the intersection of algorithm design and hardware efficiency, offering valuable insights for further research in sorting and data processing.
 
 --- 
-
-Feel free to use or adapt this description for your GitHub repository! Let me know if you'd like to refine or expand it further.
